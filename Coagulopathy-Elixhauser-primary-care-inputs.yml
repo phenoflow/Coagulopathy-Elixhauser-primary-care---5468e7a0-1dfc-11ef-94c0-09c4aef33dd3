@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-fibrin---primary.py
+inputModule3:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-hypoprothrombinaemia---primary.py
+inputModule4:
+  class: File
+  path: python/thrombocytopenic-coagulopathy-elixhauser-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/idiopathic-coagulopathy-elixhauser-primary-care---primary.py
+inputModule6:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-postpartum---primary.py
+inputModule7:
+  class: File
+  path: python/secondary-coagulopathy-elixhauser-primary-care---primary.py
+inputModule8:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-evan's---primary.py
+inputModule9:
+  class: File
+  path: python/qualitative-coagulopathy-elixhauser-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-haemophilia---primary.py
+inputModule11:
+  class: File
+  path: python/essential-coagulopathy-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-factor---primary.py
+inputModule13:
+  class: File
+  path: python/haemorrhagic-coagulopathy-elixhauser-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/neonatal-coagulopathy-elixhauser-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-deficiency---primary.py
+inputModule16:
+  class: File
+  path: python/congenital-coagulopathy-elixhauser-primary-care---primary.py
+inputModule17:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-thrombocythaemia---primary.py
+inputModule19:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-acquired---primary.py
+inputModule20:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-condition---primary.py
+inputModule21:
+  class: File
+  path: python/hereditary-coagulopathy-elixhauser-primary-care---primary.py
+inputModule22:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-vitamin---primary.py
+inputModule23:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-willebrand---primary.py
+inputModule24:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-clotting---primary.py
+inputModule25:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-christmas---primary.py
+inputModule26:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-defects---primary.py
+inputModule27:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-specified---primary.py
+inputModule28:
+  class: File
+  path: python/coagulopathy-elixhauser-primary-care-rosenthal's---primary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
